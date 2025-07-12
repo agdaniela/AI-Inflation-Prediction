@@ -2,7 +2,6 @@
 
 Code and data for comparing GPT-4o-Mini and REM Argentine inflation expectations.
 
-Paper submitted to *Journal of Data Science*
 
 ### Recommended procedure for reproducibility: 
 Download the git repo in *.zip* format and run in Google Colab (please replace with proper paths to access the Excel files). 
